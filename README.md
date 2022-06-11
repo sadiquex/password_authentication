@@ -1,2 +1,3 @@
 # password_authentication
-This code checks whether the password is valid
+This programs checks whether the user's password is valid
+The basic requirement is any Python IDE
